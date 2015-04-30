@@ -32,7 +32,7 @@ Bunchr::Packages.new do |t|
   t.vendor   = 'Heavy Water Operations, LLC.'
   t.url      = 'http://sensuapp.org'
   t.description = 'A monitoring framework that aims to be simple, malleable, and scalable.'
-  t.maintainer = 'Sensu Helpdesk <helpdesk@sensuapp.com>'
+  t.maintainer = 'Sensu Support Team <helpdesk@sensuapp.com>'
 
   platform_family = t.ohai.platform_family
 
